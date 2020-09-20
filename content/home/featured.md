@@ -25,11 +25,11 @@ subtitle = ""
   link_to_archive = false
 
   # Filter posts by a taxonomy term.
-  [[content.filters]]
+ [content.filters]
     tag = "Network Function Virtualization"
     category = ""
     publication_type = "2"
-    author = "{\bf Yingling Mao}, Xiaojun Shang, Yuanyuan Yang"
+    author = "Yingling Mao, Xiaojun Shang, Yuanyuan Yang"
     title="Constant Approximation Algorithms for Resource-Efficient Virtual Network Function Placement in Edge Networks" 
 
  
