@@ -11,6 +11,8 @@ weight = 30  # Order that this section will appear.
 title = "Publications-Submitted/In Review"
 subtitle = ""
 
+[[publication]] title="Constant Approximation Algorithms for Resource-Efficient Virtual Network Function Placement in Edge Networks",data="", publication_types=2, publication="Transactions on Parallel and Distributed Systems (TPDS)", authors="{\bf Yingling Mao}, Xiaojun Shang, Yuanyuan Yang".
+
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
@@ -26,10 +28,10 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "Constant Approximation Algorithms for Resource-Efficient Virtual Network Function Placement in Edge Networks"
-    category = "Transactions on Parallel and Distributed Systems (TPDS)"
-    publication_type = "Journal"
-    author = "{\bf Yingling Mao}, Xiaojun Shang, Yuanyuan Yang, (Submitted on Aug. 26, 2020)"
+    tag = ""
+    category = ""
+    publication_type = ""
+    author = ""
   
 [design]
   # Toggle between the various page layout types.
