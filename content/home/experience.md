@@ -19,10 +19,10 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Teaching Assistant"
-  company = "ESE 122: Discrete Mathematics"
+  company = "ESE 122 Discrete Mathematics"
   company_url = ""
   location = "Stony Brook University"
-  date_start = "2020-09"
+  date_start = "2020-08-26"
   date_end = ""
   description = """
   Work included weekly Office Hour Q&A, grading assignments, exams and projects, etc.
