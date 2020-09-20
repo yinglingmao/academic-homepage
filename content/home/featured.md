@@ -6,9 +6,9 @@
 widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
-title = "Featured Publications"
+title = "Publications-Submitted/In Review"
 subtitle = ""
 
 [content]
@@ -16,7 +16,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 1
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
@@ -26,10 +26,10 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
+    tag = "Constant Approximation Algorithms for Resource-Efficient Virtual Network Function Placement in Edge Networks"
+    category = "Transactions on Parallel and Distributed Systems (TPDS)"
+    publication_type = "Journal"
+    author = "{\bf Yingling Mao}, Xiaojun Shang, Yuanyuan Yang, (Submitted on Aug. 26, 2020)"
   
 [design]
   # Toggle between the various page layout types.
