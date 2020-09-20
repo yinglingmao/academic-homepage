@@ -31,9 +31,6 @@ subtitle = ""
     publication_type = "2"
     author = "{\bf Yingling Mao}, Xiaojun Shang, Yuanyuan Yang"
     title="Constant Approximation Algorithms for Resource-Efficient Virtual Network Function Placement in Edge Networks" 
-    publication="Transactions on Parallel and Distributed Systems (TPDS)"
-    description="(Submitted on Aug. 26, 2020)"
-    date="2020"
 
  
   
