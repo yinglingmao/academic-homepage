@@ -5,9 +5,9 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 
 [content]
@@ -67,6 +67,6 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+1. Xiaojun Shang, Yu Liu, **Yingling Mao**, Zhenhua Liu, Yuanyuan Yang, ***Greening Reliability of Virtual Network Functions via Online Optimization***, _IEEE/ACM 28th International Symposium on Quality of Service (IWQoS)}_, 2020.
+
+2. **Yingling Mao**, Ke Liu, Hao Li, Xiaohua Tian, and Xinbing Wang, ***Scalability of Wireless Fingerprinting based Indoor Localization Systems**, _15th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)_, pp. 1--9, 2018.
