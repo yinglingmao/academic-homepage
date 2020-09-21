@@ -17,22 +17,6 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Teaching Assistant"
-  company = "ESE 122 Discrete Mathematics"
-  company_url = ""
-  location = "Stony Brook University"
-  date_start = "2020-08-26"
-  date_end = ""
-  description = """
-  Work included weekly Office Hour Q&A, grading assignments, exams and projects, etc.
-  
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
   title = "Teaching Assistant"
