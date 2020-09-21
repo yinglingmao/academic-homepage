@@ -47,7 +47,7 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2015-01-01"
   date_end = "2016-12-31"
-  description = "For students in Zhiyuan College, the top $5\%$ SJTU undergraduates."
+  description = """For students in Zhiyuan College, the top 5% SJTU undergraduates."""
 
 
 +++
