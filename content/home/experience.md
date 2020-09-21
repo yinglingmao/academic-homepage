@@ -33,12 +33,13 @@ date_format = "Jan 2006"
   * Modelling
   * Deploying
   """
+
 [[experience]]
   title = "Teaching Assistant"
-  company = "ESE 122 Discrete Mathematics"
+  company = "ESE 122: Discrete Mathematics"
   company_url = ""
   location = "Stony Brook University"
-  date_start = "2020-09"
+  date_start = "2020-08-24"
   date_end = ""
   description = """Work included weekly Office Hour Q&A, grading assignments, exams and projects, etc."""
   
@@ -47,29 +48,29 @@ date_format = "Jan 2006"
   company = "Group of Professor Yuanyuan Yang"
   company_url = ""
   location = "Stony Brook University"
-  date_start = "2020-06"
-  date_end = "2020-08"
+  date_start = "2020-05-18"
+  date_end = "2020-08-23"
   description = """
   In this period, I designed a 3/2 approximation algorithm for resource-efficient virtual network function placement in edge networks and another constant constant approximation algorithm in joint resource and latency optimization for the deployment of virtual network function chains in hybrid edge-and-cloud computing.
   """
   
 [[experience]]
   title = "Teaching Assistant"
-  company = " ESE124 ProgrammingFundamentals "
+  company = " ESE124: ProgrammingFundamentals "
   company_url = ""
   location = "Stony Brook University"
-  date_start = "2020-01"
-  date_end = "2020-05"
+  date_start = "2020-02-16"
+  date_end = "2020-05-17"
   description = """Work included teaching lab sections, grading assignments, exams and projects, monitoring exams, weekly Office Hour Q&A, etc."""
   
   
 [[experience]]
   title = "Teaching Assistant"
-  company = "ESE 122 Discrete Mathematics"
+  company = "ESE 122: Discrete Mathematics"
   company_url = ""
   location = "Stony Brook University"
-  date_start = "2019-09"
-  date_end = "2020-01"
+  date_start = "2019-08-22"
+  date_end = "2020-12-15"
   description = """Work included weekly Office Hour Q&A, assisting the professor to design exams, monitoring exam."""
   
 [[experience]]
@@ -77,8 +78,8 @@ date_format = "Jan 2006"
   company = "Group of Professor Yuanyuan Yang"
   company_url = ""
   location = "Stony Brook University"
-  date_start = "2019-06"
-  date_end = "2019-08"
+  date_start = "2019-05-20"
+  date_end = "2019-08-21"
   description = """
   In this period, I found my interested research area: network function virtualization, especially the deployment problem of virtual network functions.
   """
