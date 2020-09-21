@@ -13,9 +13,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - icon: inbox
-    icon_pack: fas
-    link: yingling.mao@stonybrook.edu
+  - icon: file
+    icon_pack: far
+    link: https://drive.google.com/file/d/1tR_FDGjqcTA6WaupxnqYMJKCIemFGSKp/view?usp=sharing
   - icon: facebook
     icon_pack: fab
     link: https://www.facebook.com/profile.php?id=100033277305629
