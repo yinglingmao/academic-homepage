@@ -69,5 +69,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
  
- * {\bf Yingling Mao}, Xiaojun Shang, Yuanyuan Yang, (Submitted on Aug. 26, 2020), Constant Approximation Algorithms for Resource-Efficient Virtual Network Function Placement in Edge Networks, \emph{Transactions on Parallel and Distributed Systems (TPDS)}. 
+ *  **Yingling Mao**, Xiaojun Shang, Yuanyuan Yang, (Submitted on Aug. 26, 2020), Constant Approximation Algorithms for Resource-Efficient Virtual Network Function Placement in Edge Networks, _Transactions on Parallel and Distributed Systems (TPDS)_. 
 +++
