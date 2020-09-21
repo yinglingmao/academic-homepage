@@ -30,19 +30,19 @@ date_format = "2006"
   description = """For the top 50 research topics from SJTU undergraduates."""
 
 [[item]]
-  organization = "MCM"
+  organization = "The Mathematics Contest in Modeling (MCM)"
   organization_url = "https://www.comap.com/undergraduate/contests/mcm/"
   title = "Honorable Mention in The Mathematics Contest in Modeling(MCM)"
   url = ""
   certificate_url = ""
   date_start = "2016-01-01"
   date_end = "2017-12-31"
-  description = ""
+  description = """The Mathematics Contest in Modeling (MCM) is an international contest for high school students and college undergraduates. It challenges teams of students to clarify, analyze, and propose solutions to open-ended problems. The contest attracts diverse students and faculty advisors from over 900 institutions around the world."""
   
 [[item]]
   organization = "Zhiyuan College in Shanghai Jiao Tong University"
   organization_url = "http://en.sjtu.edu.cn/academics/schools/zhiyuan-college/"
-  title = "Shanghai Jiao Tong University Zhiyuan honorary scholarship"
+  title = "Shanghai Jiao Tong University Zhiyuan Honorary Scholarship"
   url = ""
   certificate_url = ""
   date_start = "2015-01-01"
