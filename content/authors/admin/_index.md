@@ -13,8 +13,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - icon: file
-    icon_pack: fas
+  - icon: file-user
+    icon_pack: far
     link: https://drive.google.com/file/d/1tR_FDGjqcTA6WaupxnqYMJKCIemFGSKp/view?usp=sharing
   - icon: facebook
     icon_pack: fab
