@@ -71,4 +71,9 @@ subtitle = ""
  
 +++
 
-1. **Yingling Mao**, Xiaojun Shang, Yuanyuan Yang, (Submitted on Aug. 26, 2020), Constant Approximation Algorithms for Resource-Efficient Virtual Network Function Placement in Edge Networks, _Transactions on Parallel and Distributed Systems (TPDS)_. 
+1. **Yingling Mao**, Xiaojun Shang, Yuanyuan Yang, (Submitted on Aug. 26, 2020), ***Constant Approximation Algorithms for Resource-Efficient Virtual Network Function Placement in Edge Networks***, _Transactions on Parallel and Distributed Systems (TPDS)_. 
+
+2. **Yingling Mao**, Xiaojun Shang, Yuanyuan Yang, (Submitted on Aug. 16, 2020), ***Joint Resource and Latency Optimization for Deployment of Service Function Chains in Hybrid Edge-and-Cloud Computing***, _2021 IEEE International Conference on Computer Communications (INFOCOM 2021)}_.
+
+3. **Yingling Mao**, Feiyang Wu, Xiaohua Tian, Yuanyuan Yang, Xinbing Wang, (Submitted on Jun. 16, 2020), ***Performance Adjustable Manifold Learning***, _Transactions on Knowledge and Data Engineering (TKDE)_.
+
