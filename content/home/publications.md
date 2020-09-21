@@ -69,4 +69,5 @@ subtitle = ""
 
 1. Xiaojun Shang, Yu Liu, **Yingling Mao**, Zhenhua Liu, Yuanyuan Yang, ***Greening Reliability of Virtual Network Functions via Online Optimization***, _IEEE/ACM 28th International Symposium on Quality of Service (IWQoS)}_, 2020.
 
+
 2. **Yingling Mao**, Ke Liu, Hao Li, Xiaohua Tian, and Xinbing Wang, ***Scalability of Wireless Fingerprinting based Indoor Localization Systems**, _15th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)_, pp. 1--9, 2018.
