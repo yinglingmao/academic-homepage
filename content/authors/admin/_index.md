@@ -25,10 +25,10 @@ organizations:
 education:
   courses:
     - course: Ph.D. candidate in Computing Engineering
-      institution: Stony Brook University
+      institution: Stony Brook University (SBU)
       year: ""
     - course: B.S. in Mathematics and Applied Mathematics
-      institution: Shanghai Jiao Tong University
+      institution: Zhiyuan College (for the top 5% undergraduates) in Shanghai Jiao Tong University (SJTU)
       year: 2018
 email: yingling.mao@stonybrook.edu
 superuser: false
